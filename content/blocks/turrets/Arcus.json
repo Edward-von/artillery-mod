@@ -44,7 +44,7 @@
             "lifetime": 313,
             "hitEffect": "reactorExplosion",
             "splashDamage": 800,
-            "splashDamageRadius": 40,
+            "splashDamageRadius": 1,
             "buildingDamageMultiplier": 1,
             "trailLength": 12.5,
             "trailWidth": 7.5,
