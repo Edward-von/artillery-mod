@@ -128,7 +128,6 @@
         "copper/900",
         "lead/700",
         "titanium/700",
-        "surge-alloy/250",
         "silicon/500"
     ],
     "liquidCapacity":30,
