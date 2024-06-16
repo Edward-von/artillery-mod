@@ -10,7 +10,7 @@
     "range": 800,
     "rotateSpeed": 0.7,
     "targetGround": true,
-    "targetAir": false,
+    "targetAir": true,
     "hasLiquids":true,
     "maxAmmo": 10,
     "hasPower": true,
@@ -49,7 +49,7 @@
             "trailLength": 12.5,
             "trailWidth": 7.5,
             "trailColor": "828282",
-            "ammoMultiplier": 1
+            "ammoMultiplier": 2
           },
           "pyratite": {
             "type": "ArtilleryBulletType",
@@ -121,7 +121,7 @@
             "hitShake":2
           }
     },
-    "research": "foreshadow",
+    "research": "duo",
     "category": "turret",
     "shootShake":2,
     "requirements": [    
